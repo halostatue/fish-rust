@@ -1,13 +1,19 @@
-# fish-utils-core Changelog
+# halostatue/fish-rust Changelog
 
-## 1.0.2
+## 2.0.0 / 2025-01-02
 
-- Remove a debug statement (HEAD -> master, tag: v1.x, tag: v1.0.2, origin/master, origin/HEAD) [Austin Ziegler]
+- Switch from `$fish_user_paths` to `$PATH` with `fish_add_path`.
 
-## 1.0.1
+- From this version, there are no `.x` releases.
 
-- set -q expects variable NAME, not VALUE (tag: v1.0.1) [Austin Ziegler]
+## 1.0.2 / 2019-06-19
 
-## 1.0
+- Remove a debug statement.
 
-- Initial release to replace oh-my-fish/plugin-rustup (tag: v1.0) [Austin Ziegler]
+## 1.0.1 / 2019-06-19
+
+- set -q expects variable NAME, not VALUE
+
+## 1.0.0 / 2019-06-18
+
+- Initial release to replace oh-my-fish/plugin-rustup

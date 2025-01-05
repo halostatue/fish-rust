@@ -1,5 +1,13 @@
 # halostatue/fish-rust Changelog
 
+## 2.0.1 / 2025-01-05
+
+- Added version information to comment tags.
+- Switched to long flags where possible.
+- Switched to `set --function` instead of `set --local`.
+- Updated documentation.
+- Added tooling to the Justfile for easier release management.
+
 ## 2.0.0 / 2025-01-02
 
 - Switch from `$fish_user_paths` to `$PATH` with `fish_add_path`.

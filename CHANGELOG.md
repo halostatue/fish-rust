@@ -1,5 +1,10 @@
 # halostatue/fish-rust Changelog
 
+## 2.0.2 / 2025-01-15
+
+- Changed `conf.d/halostatue_fish_rust.fish` to no longer exit early if the
+  Cargo binary path is not present. Define an empty uninstall function.
+
 ## 2.0.1 / 2025-01-05
 
 - Added version information to comment tags.

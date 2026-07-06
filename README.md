@@ -1,6 +1,7 @@
 # halostatue/fish-rust
 
 [![Version][version]](https://github.com/halostatue/fish-rust/releases)
+[![MIT](https://img.shields.io/badge/licence-MIT-blue?style=for-the-badge "MIT")](https://github.com/halostatue/fish-rust/blob/main/LICENCE.md)
 
 A quick plugin for [fish shell][shell] to ensure that `$HOME/.cargo/bin` is
 added to `$PATH`.
